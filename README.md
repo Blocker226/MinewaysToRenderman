@@ -5,7 +5,8 @@ Instantly setup your imported worlds for rendering with Renderman!
 Tested on Maya 2019 with Renderman 23.1
 
 ## Setup
-Put the scripts into your Maya script directory. Drag the "run.py" into the script editor, then select the whole code and middle-click drag it into a shelf of your choice. Save your shelf when done.
+Extract the Mways_to_Rman folder into your Maya script directory. Drag the "run.py" into the script editor's Python tab, then select the snippet and middle-click drag it into a shelf of your choice. Save your shelf when done.
+
 Or just install it like you normally would with your other custom scripts I guess.
 
 ## Usage

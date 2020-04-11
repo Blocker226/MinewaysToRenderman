@@ -1,7 +1,7 @@
 <component name="CopyrightManager">
-  <settings>
+  <settings default="Blocker226 GPL3">
     <module2copyright>
-      <element module="All" copyright="Blocker226 Short GPL3" />
+      <element module="All" copyright="Blocker226 GPL3" />
     </module2copyright>
   </settings>
 </component>

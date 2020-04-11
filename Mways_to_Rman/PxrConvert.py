@@ -1,4 +1,6 @@
+#  Mineways To Renderman V1.0
 #  Copyright (c) 2020 Blocker226. Released under GNU GPL 3.0
+#  https://github.com/Blocker226/MinewaysToRenderman
 
 import maya.cmds as mc
 
@@ -77,7 +79,7 @@ def main():
                 mc.error("Selected object {} is not a transform!".format(obj))
                 break
             apply_pxr_material(obj)
-        print 'PxrSurface conversion complete for {} items.'.format(len(selected)),
+        print 'MinewaysToRenderman conversion complete for {} items.'.format(len(selected)),
 
 
 if __name__ == "__main__":
